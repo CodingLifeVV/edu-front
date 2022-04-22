@@ -1,6 +1,6 @@
 # {{ name }}
 
-> {{ description }}
+> 在线教育网前端系统
 
 ## Build Setup
 
